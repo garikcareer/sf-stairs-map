@@ -7,3 +7,11 @@ test-results/
 playwright-report/
 gh/
 .idea/
+.claude/
+.codex/
+.cursor/
+.factory/
+.gemini/
+.opencode/
+.pi/
+.github/hooks/
